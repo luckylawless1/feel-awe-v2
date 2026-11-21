@@ -8,8 +8,9 @@
 import { mkdirSync, writeFileSync } from "node:fs";
 
 // The text, sentence by sentence. Nothing in it instructs the reader;
-// the calm is in the image itself — one small figure on dark water,
-// and the lake that was there long before him and will outlast him.
+// the calm is in the image itself — one small figure rowing home on
+// dark water, and the lake that was there long before him and will
+// outlast everything he has built.
 const OPENING =
   "He rows the last of the lake slowly, oars lifting threads of light.";
 
